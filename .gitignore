@@ -1,5 +1,8 @@
-PsychEngine/.vscode/
-PsychEngine/export/
-BoloVEVOKade/.vscode/
-BoloVEVOKade/export/
+Engines/PsychEngine/.vscode/
+Engines/PsychEngine/export/
+Engines/PsychEngine/source/GJKeys.hx
+Engines/PsychEngine-Android/.vscode/
+Engines/PsychEngine-Android/export/
 CharMenu.code-workspace
+GitHubReleases/
+BackupFiles/
